@@ -23,6 +23,21 @@
 }
 
 @keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+h5 {
+  text-align: right;
+  padding-right: 100px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 18px;
+  padding: 0 50px;
 }

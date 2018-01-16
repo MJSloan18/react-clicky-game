@@ -1,0 +1,84 @@
+[{
+        "id": 1,
+        "name": "Derek Carr",
+        "image": "https://usatftw.files.wordpress.com/2017/08/ap_rams_raiders_football_93168011.jpg?w=1000&h=600&crop=1",
+        "occupation": "QB"
+    },
+    {
+        "id": 2,
+        "name": "Amari Cooper",
+        "image": "http://www.raiders.com/assets/images/imported/OAK/photos/centerpiece/2016/11-November/112216-cooper-cp.jpg",
+        "occupation": "WR"
+
+    },
+    {
+        "id": 3,
+        "name": "Jared Cook",
+        "image": "http://ww1.hdnux.com/photos/65/63/61/14105712/3/920x920.jpg",
+        "occupation": "TE"
+
+    },
+    {
+        "id": 4,
+        "name": "Khalil Mack",
+        "image": "http://www.nbcsports.com/bayarea/sites/csnbayarea/files/2017/09/30/mack-us.jpg",
+        "occupation": "LB/DE"
+
+    },
+    {
+        "id": 5,
+        "name": "Reggie Nelson",
+        "image": "http://media.gettyimages.com/photos/reggie-nelson-of-the-oakland-raiders-in-action-during-the-game-the-picture-id629291426?k=6&m=629291426&s=594x594&w=0&h=1s83BANLS2SQDbnf_wmP2c4aRj8ILWT965K65h47H7g=",
+        "occupation": "FS"
+
+    },
+    {
+        "id": 6,
+        "name": "Navarro Bowman",
+        "image": "http://ww1.hdnux.com/photos/66/71/34/14391092/5/1024x1024.jpg",
+        "occupation": "MLB"
+
+    },
+    {
+        "id": 7,
+        "name": "Karl Joseph",
+        "image": "https://www.mercurynews.com/wp-content/uploads/2016/10/sjm-raiders-1010-117.jpg",
+        "occupation": "SS"
+
+    },
+    {
+        "id": 8,
+        "name": "Jon Gruden",
+        "image": "http://images.performgroup.com/di/library/omnisport/e1/75/jon-gruden-010715-getty-ftr-usjpg_1r6jy3ru5hkn01py7y2bx8ooil.jpg?t=516345130&w=960&quality=70",
+        "occupation": "Head Coach"
+
+    },
+    {
+        "id": 9,
+        "name": "Marshawn Lynch",
+        "image": "https://pbs.twimg.com/profile_images/852988662400921600/u7w9F6rE.jpg",
+        "occupation": "RB"
+
+    },
+    {
+        "id": 10,
+        "name": "Donald Penn",
+        "image": "https://cdn.profootballrumors.com/files/2016/02/USATSI_8821830.jpg",
+        "occupation": "C/T"
+
+    },
+    {
+        "id": 11,
+        "name": "Mario Edwards Jr.",
+        "image": "http://www.nbcsports.com/bayarea/sites/csnbayarea/files/2016/12/01/edwards-jr-mario-black-bengals.jpg",
+        "occupation": "LE"
+
+    },
+    {
+        "id": 12,
+        "name": "Bruce Irvin",
+        "image": "http://www.raiders.com/assets/images/imported/OAK/photos/centerpiece/2017/09-September/090717-BJ-cp.jpg",
+        "occupation": "LB"
+
+    }
+]
