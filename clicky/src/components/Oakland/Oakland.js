@@ -2,7 +2,7 @@ import React from "react";
 import "./Oakland.css";
 
 
-const OaklandCard = props => (
+const Oakland = props => (
 
     <div className="card">
             <img alt={props.name} src={props.image} />
@@ -21,4 +21,4 @@ const OaklandCard = props => (
 
 );
 
-export default OaklandCard;
+export default Oakland;

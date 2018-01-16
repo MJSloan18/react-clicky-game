@@ -4,6 +4,7 @@ import './App.css';
 import members from "./oakland.json";
 import Wrapper from "./components/Wrapper";
 
+
 class App extends Component {
 
   state = {
@@ -11,7 +12,7 @@ class App extends Component {
   };
 
   removeMember = id => {
-    const members = this.state.members.filter(members.id !== id);
+    const members = this.state.members.filter(members => members.id !== id);
     this.setState({ members });
   }
 
@@ -25,6 +26,8 @@ class App extends Component {
         </header>
         <h1>Select a Game Card below, without choosing the same one twice. Every correct guess will log a win, if you guess the same card more than once, a loss will register and the game restarts</h1>
         
+        
+        
         <title>Oakland Raiders</title>
         {this.state.members.map(members => (
           <Oakland
@@ -35,8 +38,12 @@ class App extends Component {
             image={members.image}
             position={members.position}
           />
+          
+        
         
         ))}
+        
+        
       
       </wrapper>
     );
