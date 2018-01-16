@@ -1,83 +1,71 @@
 [{
         "id": 1,
         "name": "Derek Carr",
-        "image": "https://usatftw.files.wordpress.com/2017/08/ap_rams_raiders_football_93168011.jpg?w=1000&h=600&crop=1",
-        "postion": "QB"
+        "image": "http://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/16757.png&w=350&h=254",
+        "position": "QB"
     },
     {
         "id": 2,
         "name": "Amari Cooper",
-        "image": "http://www.raiders.com/assets/images/imported/OAK/photos/centerpiece/2016/11-November/112216-cooper-cp.jpg",
+        "image": "http://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/2976499.png&w=350&h=254",
         "position": "WR"
 
     },
     {
         "id": 3,
         "name": "Jared Cook",
-        "image": "http://ww1.hdnux.com/photos/65/63/61/14105712/3/920x920.jpg",
+        "image": "http://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/12537.png&w=350&h=254",
         "position": "TE"
 
     },
     {
         "id": 4,
         "name": "Khalil Mack",
-        "image": "http://www.nbcsports.com/bayarea/sites/csnbayarea/files/2017/09/30/mack-us.jpg",
+        "image": "http://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/16710.png&w=350&h=254",
         "position": "LB/DE"
 
     },
     {
         "id": 5,
         "name": "Reggie Nelson",
-        "image": "http://media.gettyimages.com/photos/reggie-nelson-of-the-oakland-raiders-in-action-during-the-game-the-picture-id629291426?k=6&m=629291426&s=594x594&w=0&h=1s83BANLS2SQDbnf_wmP2c4aRj8ILWT965K65h47H7g=",
+        "image": "http://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/10465.png&w=350&h=254",
         "position": "FS"
 
     },
+
     {
         "id": 6,
-        "name": "Navarro Bowman",
-        "image": "http://ww1.hdnux.com/photos/66/71/34/14391092/5/1024x1024.jpg",
-        "position": "MLB"
-
-    },
-    {
-        "id": 7,
         "name": "Karl Joseph",
-        "image": "https://www.mercurynews.com/wp-content/uploads/2016/10/sjm-raiders-1010-117.jpg",
+        "image": "http://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/2976639.png&w=350&h=254",
         "position": "SS"
 
     },
-    {
-        "id": 8,
-        "name": "Jon Gruden",
-        "image": "http://images.performgroup.com/di/library/omnisport/e1/75/jon-gruden-010715-getty-ftr-usjpg_1r6jy3ru5hkn01py7y2bx8ooil.jpg?t=516345130&w=960&quality=70",
-        "position": "Head Coach"
 
-    },
     {
-        "id": 9,
+        "id": 7,
         "name": "Marshawn Lynch",
-        "image": "https://pbs.twimg.com/profile_images/852988662400921600/u7w9F6rE.jpg",
+        "image": "http://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/10456.png&w=350&h=254",
         "position": "RB"
 
     },
     {
-        "id": 10,
+        "id": 8,
         "name": "Donald Penn",
-        "image": "https://cdn.profootballrumors.com/files/2016/02/USATSI_8821830.jpg",
+        "image": "http://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/10062.png&w=350&h=254",
         "position": "C/T"
 
     },
     {
-        "id": 11,
+        "id": 9,
         "name": "Mario Edwards Jr.",
-        "image": "http://www.nbcsports.com/bayarea/sites/csnbayarea/files/2016/12/01/edwards-jr-mario-black-bengals.jpg",
+        "image": "http://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/2969921.png&w=350&h=254",
         "position": "LE"
 
     },
     {
-        "id": 12,
+        "id": 10,
         "name": "Bruce Irvin",
-        "image": "http://www.raiders.com/assets/images/imported/OAK/photos/centerpiece/2017/09-September/090717-BJ-cp.jpg",
+        "image": "http://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/14946.png&w=350&h=254",
         "position": "LB"
 
     }
