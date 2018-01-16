@@ -47,15 +47,17 @@
 
 .card>.remove {
 
-    color: #ff1744;
+    color: red;
 
-    font-size: 48px;
+    font-size: 24px;
+
+    font-family: lucida calligraphy;
 
     position: absolute;
 
-    top: -20px;
+    top: -0px;
 
-    right: 5px;
+    right: 125px;
 
     cursor: pointer;
 

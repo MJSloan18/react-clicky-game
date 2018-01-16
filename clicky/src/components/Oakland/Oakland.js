@@ -14,7 +14,7 @@ const Oakland = props => (
             </ul>
         </div>
         
-        <span onClick={() => props.removeMember(props.id)} className="remove">x</span>
+        <span onClick={() => props.removeMember(props.id)} className="remove">Draft</span>
         
     </div>
 
