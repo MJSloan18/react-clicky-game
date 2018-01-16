@@ -16,6 +16,7 @@ class App extends Component {
 
   render() {
     return (
+      <wrapper>
       <div className="App">
         <header className="App-header">
           <img src="https://pbs.twimg.com/profile_images/913102538081148928/58i0mJwi_400x400.jpg" className="App-logo" alt="logo" />
@@ -37,6 +38,7 @@ class App extends Component {
         ))}
        
       </div>
+      </wrapper>
     );
   }
 }

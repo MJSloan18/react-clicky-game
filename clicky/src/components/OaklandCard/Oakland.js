@@ -1,4 +1,5 @@
 import React from "react";
+import "./Oakland.css";
 
 
 const OaklandCard = props => (
