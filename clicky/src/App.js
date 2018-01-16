@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
-import OaklandCard from "./components/OaklandCard/Oakland.js";
+import Oakland from "./components/Oakland";
 import './App.css';
 import members from "./oakland.json";
+import Wrapper from "./components/Wrapper";
 
 class App extends Component {
 
@@ -17,7 +18,7 @@ class App extends Component {
   render() {
     return (
       <wrapper>
-      <div className="App">
+      
         <header className="App-header">
           <img src="https://pbs.twimg.com/profile_images/913102538081148928/58i0mJwi_400x400.jpg" className="App-logo" alt="logo" />
           <h1 className="App-title">Welcome to The Clicky Game</h1>
@@ -26,7 +27,7 @@ class App extends Component {
         
         <title>Oakland Raiders</title>
         {this.state.members.map(members => (
-          <OaklandCard
+          <Oakland
             removeMember={this.removeMember}
             id={members.id}
             key={members.id}
@@ -36,8 +37,7 @@ class App extends Component {
           />
         
         ))}
-       
-      </div>
+      
       </wrapper>
     );
   }
